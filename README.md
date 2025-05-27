@@ -31,6 +31,8 @@ Os códigos-fonte PHP devem ser adicionados/modificados diretamente da pasta `ph
 ```
 http://localhost:8080/
 
+```
+
 ##### Banco de dados
 
 O banco de dados será criado chamado de `banco`, criado baseado no arquivo `init.sql`. Você pode acessar o banco de dados diretamente no terminal usando o seguinte comando:
