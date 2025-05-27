@@ -52,7 +52,6 @@ http://localhost:8081/
 ```
 
 Quando solicitado, utilize o login `root` e a senha `root`.
-```
 
 ### Ambiente de desenvolvimento nativo (Não recomendado)
 
